@@ -11,8 +11,3 @@
 - **Interactive Interface**: Built with Streamlit for easy use.
 - **Customizable Corpus**: Users can input topics and set corpus size.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/WikiNext-Trigram-Predictor.git
-   cd WikiNext-Trigram-Predictor
